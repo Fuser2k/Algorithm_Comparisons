@@ -1,0 +1,9 @@
+# ninja log v5
+4	720	1717937188990359339	CMakeFiles/untitled1.dir/kmp.cpp.o	b27757bbf26699f0
+698	955	1717937189230751990	CMakeFiles/untitled1.dir/brute_force.cpp.o	7c6088b15be0d756
+4	699	1717937188968720168	CMakeFiles/untitled1.dir/sunday.cpp.o	65c061e884ec3440
+3	809	1717937189082582403	CMakeFiles/untitled1.dir/gusfield_z..cpp.o	5c2c2f11843776d0
+3	698	1717937188969462472	CMakeFiles/untitled1.dir/rabin_karp.cpp.o	74faaa1b90cad79a
+2	412	1717937472290629633	CMakeFiles/untitled1.dir/main.cpp.o	d595dc30e46432ef
+3	791	1717937189064776489	CMakeFiles/untitled1.dir/fsm.cpp.o	73f829be388dda0c
+412	450	1717937472329231008	untitled1	13c2f5b41cb5514
